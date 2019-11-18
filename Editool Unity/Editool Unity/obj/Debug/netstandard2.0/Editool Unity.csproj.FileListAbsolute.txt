@@ -1,0 +1,20 @@
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Editool Unity.deps.json
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Editool Unity.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Editool Unity.pdb
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\UnityEditor.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Unity.Cecil.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Unity.SerializationLogic.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Unity.DataContract.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\ExCSS.Unity.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Unity.Legacy.NRefactory.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Unity.CecilTools.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\UnityEditor.xml
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.csprojAssemblyReference.cache
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.AssemblyInfoInputs.cache
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.AssemblyInfo.cs
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.csproj.CopyComplete
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.dll
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\obj\Debug\netstandard2.0\Editool Unity.pdb
+C:\Users\DUPU2903\source\repos\Editool Unity\Editool Unity\bin\Debug\netstandard2.0\Editool Unity.xml
